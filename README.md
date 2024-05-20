@@ -6,9 +6,9 @@ This project performs stereo camera calibration and panorama stitching using Ope
 
 - **Images**
   - **Example**
-    - `after calibration.png` (Display in README)
+    - `a single stereo image after calibration.png` 
   - **Result**
-    - `Output.png` (Display in README)
+    - `Output.png` 
   - **stereoLeft**
     - Contains the left images for stereo calibration
   - **stereoRight**
@@ -18,7 +18,7 @@ This project performs stereo camera calibration and panorama stitching using Ope
 
 ## Example Image After Calibration
 
-![After Calibration](Images/Example/after%20calibration.png)
+![After Calibration](Images/Example/a%20single%20stereo%20image%20after%20calibration.png)
 
 ## Resulting Panorama Output
 
